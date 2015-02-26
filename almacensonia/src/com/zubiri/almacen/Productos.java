@@ -8,7 +8,7 @@ public class Productos {
 	
 	private ArrayList<Producto> listaProductos = new ArrayList<Producto>();	
 	
-	public Productos(Scanner sc) throws Exception {
+	public Productos(Scanner sc) {
 		int seleccion = -1;
 		do {
 			
